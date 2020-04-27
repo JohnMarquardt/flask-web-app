@@ -1,7 +1,0 @@
-Needs: Game needs to be online.
-Game needs to have an internal timer with a visible countdown
-Game needs to have a current text function
-Game needs to have instructions
-Game needs to have a way of choosing which players go against each other.
-Game needs to have a way of changing and selecting a cost.
-Game needs to be able to display remaining money
